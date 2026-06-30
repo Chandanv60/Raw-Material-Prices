@@ -1,0 +1,6 @@
+{
+  "name": "Fibre2Fashion RM Pricing Dashboard",
+  "description": "Fibre2Fashion TexPro API historical raw material pricing visualization, optimized for Google Sites iframe embedding with interactive multi-line charts, CSV data export, and copyable Python Streamlit developer templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
