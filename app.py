@@ -1,4 +1,4 @@
-Fibre2Fashion TexPro RM Historical Pricing & BOM Cost Estimator
+"""Fibre2Fashion TexPro RM Historical Pricing & BOM Cost Estimator
 Optimized for embedding directly inside Google Sites via standard iframe layouts or hosted on Render.
 
 Required packages:
